@@ -83,7 +83,6 @@ cfg-parser-core/
 ├── COMPLETE_GUIDE.md           # Full project guide
 ├── UNDERSTANDING_THE_CORE.md   # Core concepts explanation
 ├── USE_CASES_GUIDE.md          # Use case examples
-└── FUTURE_ENHANCEMENTS.md      # Optional enhancements guide
 ```
 
 ## The Key Function: `get_valid_next()`
@@ -292,7 +291,6 @@ All 28 tests passing.
 | [COMPLETE_GUIDE.md](COMPLETE_GUIDE.md) | Full project guide with all details |
 | [UNDERSTANDING_THE_CORE.md](UNDERSTANDING_THE_CORE.md) | How the parser works |
 | [USE_CASES_GUIDE.md](USE_CASES_GUIDE.md) | Real-world use case examples |
-| [FUTURE_ENHANCEMENTS.md](FUTURE_ENHANCEMENTS.md) | Optional features to add |
 
 ## How It Works
 
