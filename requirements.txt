@@ -1,0 +1,17 @@
+# CFG Parser Core - Requirements
+# ================================
+# No external dependencies required!
+# Uses only Python standard library.
+#
+# Minimum Python version: 3.7+
+#
+# Optional (for testing):
+# pytest>=7.0.0
+
+# Standard library modules used:
+# - re (regex)
+# - json (serialization)
+# - math (math functions)
+# - dataclasses (data structures)
+# - typing (type hints)
+# - unittest (testing)
